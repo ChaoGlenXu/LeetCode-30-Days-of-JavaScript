@@ -1,0 +1,17 @@
+30 Days of JavaScript - LeetCode Solutions
+
+This repository contains my code solutions for the "30 Days of JavaScript" problem set on LeetCode. Each solution is thoughtfully implemented, aiming to enhance problem-solving skills and deepen my understanding of JavaScript concepts.
+
+Structure:
+Each file corresponds to a daily challenge from the 30-day series.
+
+Solutions follow best practices in JavaScript, with clean, readable code and occasional comments for clarification.
+
+Purpose:
+This project serves as:
+
+A learning journey to sharpen my JavaScript skills.
+
+A public log to track my coding progress.
+
+Feel free to explore, suggest improvements, or provide feedback!
