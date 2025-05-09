@@ -1,5 +1,5 @@
 //2727. Is Object Empty
-//Medium
+//Easy
 //problem statement:   https://leetcode.com/problems/is-object-empty/description/?envType=study-plan-v2&envId=30-days-of-javascript
 
 /**
